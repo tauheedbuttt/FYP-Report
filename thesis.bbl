@@ -1,0 +1,82 @@
+\begin{thebibliography}{10}
+
+\bibitem{arch}
+{Three Layer Architecture}.
+\newblock \url{https://www.ibm.com/cloud/learn/three-tier-architecture}, 2022.
+\newblock [Online; accessed 10-October-2022].
+
+\bibitem{erp}
+{What is ERP?}
+\newblock \url{https://www.oracle.com/pk/erp/what-is-erp/}, 2022.
+\newblock [Online; accessed 01-August-2022].
+
+\bibitem{crm}
+{What is CRM?}
+\newblock \url{https://www.salesforce.com/ap/crm/what-is-crm/}, 2022.
+\newblock [Online; accessed 01-August-2022].
+
+\bibitem{pern}
+{What is PERN stack ?}
+\newblock \url{https://www.geeksforgeeks.org/what-is-pern-stack/}, 2022.
+\newblock [Online; accessed 01-August-2022].
+
+\bibitem{jwt}
+{JWT}.
+\newblock \url{https://jwt.io}, 2022.
+\newblock [Online; accessed 01-August-2022].
+
+\bibitem{zameen}
+{Zameen.com}.
+\newblock \url{https://www.zameen.com}, 2022.
+\newblock [Online; accessed 10-October-2022].
+
+\bibitem{graana}
+{Zameen.com}.
+\newblock \url{https://www.graana.com/}, 2022.
+\newblock [Online; accessed 10-October-2022].
+
+\bibitem{heroku}
+{Heroku}.
+\newblock \url{https://dashboard.heroku.com}, 2022.
+\newblock [Online; accessed 01-October-2022].
+
+\bibitem{decom}
+{Functional Decomposition}.
+\newblock
+  \url{https://engineering.purdue.edu/EPICS/k12/Teachers/Teacher-Toolbox/1.20-Teacher-Toolbox-Functional-Decomposition.pdf},
+  2022.
+\newblock [Online; accessed 19-October-2022].
+
+\bibitem{donald}
+{Norman’s 7 Principles}.
+\newblock
+  \url{https://sites.google.com/a/nu.edu.pk/hci-060129/lectures-1/norman-s-7-principles},
+  2022.
+\newblock [Online; accessed 20-October-2022].
+
+\bibitem{native}
+{React Native}.
+\newblock \url{https://reactnative.dev}, 2022.
+\newblock [Online; accessed 01-August-2022].
+
+\bibitem{react}
+{React JS}.
+\newblock \url{https://reactjs.org}, 2022.
+\newblock [Online; accessed 01-August-2022].
+
+\bibitem{express}
+{Express JS}.
+\newblock \url{https://expressjs.com}, 2022.
+\newblock [Online; accessed 01-August-2022].
+
+\bibitem{socket}
+{Socket.IO}.
+\newblock \url{https://socket.io}, 2022.
+\newblock [Online; accessed 01-August-2022].
+
+\bibitem{sql}
+{PostgreSQL}.
+\newblock \url{https://www.postgresql.org}, 2022.
+\newblock [Online; accessed 01-August-2022].
+
+\end{thebibliography}

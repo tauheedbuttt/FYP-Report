@@ -1,0 +1,39 @@
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[h]
+    \caption{UC-004}
+    \begin{tabular}{|l|p{5cm}p{5cm}|}
+        \hline
+        {\color[HTML]{231F20} \textbf{Use Case ID}}                                                     & \multicolumn{2}{l|}{{\color[HTML]{231F20} \textbf{UC-004}}}                                                                                                                                                                                                       \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Use Case Name}}                                                   & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Create   a Manager Account}}                                                                                                                                                                    \\ \hline
+        {\color[HTML]{231F20} \textbf{Actors}}                                                          & \multicolumn{2}{l|}{{\color[HTML]{231F20} Owner}}                                                                                                                                                                                                                 \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Data}}                                                            & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Manager’s   email and other details.}}                                                                                                                                                          \\ \hline
+        {\color[HTML]{231F20} \textbf{Trigger}}                                                         & \multicolumn{2}{l|}{{\color[HTML]{231F20} Click   on add a manager button}}                                                                                                                                                                                       \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Pre-condition}}                                                   & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Already   logged in}}                                                                                                                                                                           \\ \hline
+        {\color[HTML]{231F20} \textbf{Assumptions}}                                                     & \multicolumn{2}{l|}{{\color[HTML]{231F20} Actors   have access to internet}}                                                                                                                                                                                      \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{c|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Actor Action}}}                                                            & \multicolumn{1}{c|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{System Response}}}               \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }}                                                                            & \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                            \\
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Step 1:}}}}                                          & \multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Step   2:}}}                        \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} User will provide manager’s   details (name, dob etc.).}}                     & {\color[HTML]{231F20} If the manager with same email exists, user   will be prompted.}                     \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Will also select projects of which   the manager will be a manager of.}}      & {\color[HTML]{231F20} A unique username and password will be   generated.}                                 \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \multirow{-6}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Normal flow of events}}} & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }}                                                                            & {\color[HTML]{231F20} It will be emailed to the manager which they   will be able to use to login to app.} \\ \hline
+        {\color[HTML]{231F20} }                                                                         & \multicolumn{2}{l|}{{\color[HTML]{231F20} ·         Creation Fails}}                                                                                                                                                                                              \\ \cline{2-3}
+        \multirow{-2}{*}{{\color[HTML]{231F20} \textbf{Alternate flow of events}}}                      & \multicolumn{2}{l|}{{\color[HTML]{231F20} ·       Prompted   with message}}                                                                                                                                                                                       \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Main success scenarios}}                                          & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Manager’s   Account gets created.}}                                                                                                                                                             \\ \hline
+        {\color[HTML]{231F20} \textbf{Post-condition}}                                                  & \multicolumn{2}{p{5cm}|}{{\color[HTML]{231F20} Manager   will be able to login. User will be able to perform CRUD operations on   created manager.}}                                                                                                              \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Comments}}                                                        & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }}                                                                                                                                                                                              \\ \hline
+    \end{tabular}
+\end{table}

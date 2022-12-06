@@ -1,0 +1,37 @@
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
+    \caption{UC-011}
+    \begin{tabular}{|l|p{5cm}p{5cm}|}
+        \hline
+        {\color[HTML]{231F20} \textbf{Use Case ID}}                                                     & \multicolumn{2}{l|}{{\color[HTML]{231F20} \textbf{UC-011}}}                                                                                                                                                                                                        \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Use Case Name}}                                                   & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} View   a Project}}                                                                                                                                                                               \\ \hline
+        {\color[HTML]{231F20} \textbf{Actors}}                                                          & \multicolumn{2}{l|}{{\color[HTML]{231F20} Manager}}                                                                                                                                                                                                                \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Data}}                                                            & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} ---}}                                                                                                                                                                                            \\ \hline
+        {\color[HTML]{231F20} \textbf{Trigger}}                                                         & \multicolumn{2}{l|}{{\color[HTML]{231F20} Click   on any shown project.}}                                                                                                                                                                                          \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Pre-condition}}                                                   & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Already   logged in.}}                                                                                                                                                                           \\ \hline
+        {\color[HTML]{231F20} \textbf{Assumptions}}                                                     & \multicolumn{2}{l|}{{\color[HTML]{231F20} Actors   have access to internet}}                                                                                                                                                                                       \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{c|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Actor Action}}}                                                          & \multicolumn{1}{c|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{System Response}}}                  \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }}                                                                          & \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                               \\
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Step 1:}}}}                                        & \multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Step   2:}}}                           \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} User will be able to edit   project’s details, price etc.}}                 & {\color[HTML]{231F20} Once a project is opened, user will be able to see all the customers   involved in it.} \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} User will be able to notify   customers regarding their payment’s issues.}} & {\color[HTML]{231F20} Each customer’s last payment will be shown.}                                            \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \multirow{-6}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Normal flow of events}}} & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} User will also be able to schedule   a meeting with the customer.}}         & {\color[HTML]{231F20} Ones who are behind the payment, they will be highlighted.}                             \\ \hline
+        {\color[HTML]{231F20} }                                                                         & \multicolumn{2}{l|}{{\color[HTML]{231F20} ·         API doesn’t return project details}}                                                                                                                                                                           \\ \cline{2-3}
+        \multirow{-2}{*}{{\color[HTML]{231F20} \textbf{Alternate flow of events}}}                      & \multicolumn{2}{l|}{{\color[HTML]{231F20} ·       Error   shown}}                                                                                                                                                                                                  \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Main success scenarios}}                                          & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} User   successfully opens the Project.}}                                                                                                                                                         \\ \hline
+        {\color[HTML]{231F20} \textbf{Post-condition}}                                                  & \multicolumn{2}{l|}{{\color[HTML]{231F20} User   will have access to all the elements involved in the Project.}}                                                                                                                                                   \\ \hline
+    \end{tabular}
+\end{table}

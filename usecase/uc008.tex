@@ -1,0 +1,39 @@
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
+    \caption{UC-008}
+    \begin{tabular}{|l|p{5cm}p{5cm}|}
+        \hline
+        {\color[HTML]{231F20} \textbf{Use Case ID}}                                                        & \multicolumn{2}{l|}{{\color[HTML]{231F20} \textbf{UC-008}}}                                                                                                                                                                                              \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Use Case Name}}                                                      & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Delete   a Project}}                                                                                                                                                                   \\ \hline
+        {\color[HTML]{231F20} \textbf{Actors}}                                                             & \multicolumn{2}{l|}{{\color[HTML]{231F20} Owner}}                                                                                                                                                                                                        \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Data}}                                                               & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} ---}}                                                                                                                                                                                  \\ \hline
+        {\color[HTML]{231F20} \textbf{Trigger}}                                                            & \multicolumn{2}{l|}{{\color[HTML]{231F20} Clicks   on Delete Button}}                                                                                                                                                                                    \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Pre-condition}}                                                      & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Project   opened on application.}}                                                                                                                                                     \\ \hline
+        {\color[HTML]{231F20} \textbf{Assumptions}}                                                        & \multicolumn{2}{l|}{{\color[HTML]{231F20} Actors   have access to internet}}                                                                                                                                                                             \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                    & \multicolumn{1}{c|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Actor Action}}}                                  & \multicolumn{1}{c|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{System Response}}}                                \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                    & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }}                                                  & \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                                             \\
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                    & \multicolumn{1}{p{5cm}|}{\multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Step 1:}}}}                & \multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Step   2:}}}                                         \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                    & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} User will provide reasons for   project removal.}}  & {\color[HTML]{231F20} All the users associated with project will be notified.}                                              \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                    & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} User will provide password to   confirm deletion.}} & {\color[HTML]{231F20} Customers who had invested will get their meetings scheduled with the   manager to discuss payments.} \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                    & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }}                                                  & {\color[HTML]{231F20} On invalid password, the user will be prompted.}                                                      \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \multirow{-7}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Normal flow of events}}}    & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }}                                                  & {\color[HTML]{231F20} If 5 wrong attempts are made, the user won’t be able to delete that   project for next week.}         \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                    & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} ·         Project isn’t deleted}}                                                                                                                                                      \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Alternate flow of events}}} & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} ·       Prompted   with message}}                                                                                                                                                      \\ \hline
+        {\color[HTML]{231F20} \textbf{Main success scenarios}}                                             & \multicolumn{2}{l|}{{\color[HTML]{231F20} Project   is deleted.}}                                                                                                                                                                                        \\ \hline
+    \end{tabular}
+\end{table}

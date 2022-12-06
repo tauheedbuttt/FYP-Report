@@ -1,0 +1,41 @@
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[h]
+    \caption{UC-002}
+    \begin{tabular}{|l|p{5cm}p{5cm}|}
+        \hline
+        {\color[HTML]{231F20} \textbf{Use Case ID}}                                                      & \multicolumn{2}{l|}{{\color[HTML]{231F20} \textbf{UC-002}}}                                                                                                                                                                                                               \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Use Case Name}}                                                    & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Sign   up}}                                                                                                                                                                                             \\ \hline
+        {\color[HTML]{231F20} \textbf{Actors}}                                                           & \multicolumn{2}{l|}{{\color[HTML]{231F20} Owner,   Customer}}                                                                                                                                                                                                             \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Data}}                                                             & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Email   or Google/Apple ID.}}                                                                                                                                                                           \\ \hline
+        {\color[HTML]{231F20} \textbf{Trigger}}                                                          & \multicolumn{2}{l|}{{\color[HTML]{231F20} Press   on Sign Up Button}}                                                                                                                                                                                                     \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Pre-condition}}                                                    & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Have   access to Application}}                                                                                                                                                                          \\ \hline
+        {\color[HTML]{231F20} \textbf{Assumptions}}                                                      & \multicolumn{2}{l|}{{\color[HTML]{231F20} Actors   have access to internet}}                                                                                                                                                                                              \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }
+                                                                                                         & \multicolumn{1}{c|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Actor Action}}}
+                                                                                                         & \multicolumn{1}{c|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{System Response}}}                                                                                                                                                                              \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                  & \multicolumn{1}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }}                                                                             & \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                                        \\
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                  & \multicolumn{1}{l|}{\multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Step 1:}}}}                                           & \multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Step   2:}}}                                    \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                  & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Actor can use their Google/Apple   ID to create account.}}                & {\color[HTML]{231F20} If same email or invalid email is being used   for sign-up, user will be prompted to change it.} \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                  & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} They will have majority of the   fields of sign-up form already filled.}} & {\color[HTML]{231F20} If the sign-up completes, they can use their   account to login.}                                \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                  & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Actor can also use their email to   create account.}}                     & {\color[HTML]{231F20} On failure of sign-up, they get prompted with   respective reasons}                              \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \multirow{-25}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Normal flow of events}}} & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} They would provide details in   required fields of sign-up columns.}}     &                                                                                                                        \\ \hline
+        {\color[HTML]{231F20} }                                                                          & \multicolumn{2}{l|}{{\color[HTML]{231F20} ·         Signup Fails}}                                                                                                                                                                                                        \\ \cline{2-3}
+        \multirow{-2}{*}{{\color[HTML]{231F20} \textbf{Alternate flow of events}}}                       & \multicolumn{2}{l|}{{\color[HTML]{231F20} ·       Prompted   with message}}                                                                                                                                                                                               \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Main success scenarios}}                                           & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Signup   succeeds and mail is sent to user for authentication.}}                                                                                                                                        \\ \hline
+        {\color[HTML]{231F20} \textbf{Post-condition}}                                                   & \multicolumn{2}{l|}{{\color[HTML]{231F20} Actor   can login using the credentials provided during signup}}                                                                                                                                                                \\ \hline
+    \end{tabular}
+\end{table}

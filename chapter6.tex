@@ -1,0 +1,93 @@
+\chapter{System Testing and Evaluation}\label{chap:testingEvaluation}
+
+%\version{v1.11.2015}
+
+\section*{}
+\section{Graphical user interface testing}
+\begin{figure}[!htb]
+	\begin{minipage}{0.48\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth]{figures/Testing/scroll1.png}
+		\caption{Before Scrolling}\label{Fig:Data1}
+	\end{minipage}\hfill
+	\begin{minipage}{0.48\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth]{figures/Testing/scroll2.png}
+		\caption{After Scrolling}\label{Fig:Data2}
+	\end{minipage}
+\end{figure}
+While the image scrolls, it does not cut off at the margins but goes through the entire width of the screen which shows successful implementation of the scrolling
+\newpage
+\begin{figure}[!htb]
+	\begin{minipage}{0.48\textwidth}
+		\centering
+		\includegraphics[width=0.8\linewidth]{figures/Testing/change1.png}
+		\caption{Before Changing Data}\label{Fig:Data1}
+	\end{minipage}\hfill
+	\begin{minipage}{0.48\textwidth}
+		\centering
+		\includegraphics[width=0.8\linewidth]{figures/Testing/change2.png}
+		\caption{After Changing Data}\label{Fig:Data2}
+	\end{minipage}
+\end{figure}
+When the User profile is changed, a button shows up to indicate the user to save the changes. if the values are the same, the button goes away.
+\newpage
+\begin{figure}[!htb]
+	\begin{minipage}{0.48\textwidth}
+		\centering
+		\includegraphics[width=0.8\linewidth]{figures/Testing/chat1.png}
+		\caption{Before Typing Message}\label{Fig:Data1}
+	\end{minipage}\hfill
+	\begin{minipage}{0.48\textwidth}
+		\centering
+		\includegraphics[width=0.8\linewidth]{figures/Testing/chat2.png}
+		\caption{After Typing Message}\label{Fig:Data2}
+	\end{minipage}
+\end{figure}
+When a message is typed, only then the SEND button shows. If the box is empty, the gallery button is shown.
+\newpage
+
+\begin{figure}[H]
+	\centering
+	\makebox[\textwidth]{\includegraphics[scale=0.3]{figures/Testing/chat.png}}%
+	\caption{Before Typing Message}
+\end{figure}
+The time the message was sent is only shown at the last message of the user without interruption.
+
+\newpage
+\begin{figure}[H]
+	\centering
+	\makebox[\textwidth]{\includegraphics[scale=0.2]{figures/Testing/guest.png}}%
+	\caption{Guest interaction}
+\end{figure}
+
+Everytime a button is pressed which requires user login, this screen pops up.
+\newpage
+\section{Usability testing}
+This sort of testings makes us known whether the application is easy to use and learn by the user or not. It can only be done getting a response from potential users through testing. Since there was no contact with any potential user, Tauheed Butt asked the supervisor at his job to review the application and find any bugs and issues. Initially the font size and heights of buttons were too big. They pointed it out and it was fixed accordingly. However color scheme was highly appreciated as it wasn't too sharp on the eyes.
+\section{Software performance testing}
+The application relies on API calls to load data in it. If too much of that starts getting stored locally, the application will end up using a lot of user's storage. So there needs to be found a balance in between. Since tokens, roles and wish-list are being stored locally, the login and other related processes get executed quickly. They take up to max 0.1 sec to load. It also depends on what type of device is running the application. If an old device is used, its performance will degrade tremendously.
+\section{Compatibility testing}
+The application being cross-platform is its strong suit and it needs to be tested accordingly. The web application runs flawlessly on all type of Operating Systems. However, some browsers fail to load some image and font assets. The team failed to fix those issues.
+\section{Exception handling}
+Since there are 3 views to the mobile application, it is very common to run into exceptions. Some places where user's registered details are being used need to be conditionally changed to the guest's details. Many were handled during development. The API calls are done asynchronously which are bound to produce some exceptions. If not handled, the app can crash. Those ares of code were put in try catch blocks in order to prevent the application from crashing.
+\section{Load testing}
+The mobile version can experience great amount of load in case of re-rendering due to concurrent changes in state. Some were handled by using useEffect hook of React. Others were being caused due to being able to do API calls by pressing button again and again. This was handled by disabling the button when the API call was already in process. Once it was completed only then the button was enabled.
+\section{Security testing}
+The Server however can experience great amount of load in form of DDoS attacks so it needs to be catered accordingly. The access to it is the domain of the server. Where ever it gets used, it was put inside environment variable file which is automatically hidden in any project used. Even if not, it can be manually done so. Other form of load it can receive is by being able to send requests with no authentication and validation. The authentication gets handled through JWT Token which can only be generated if correct login/sign up credentials are provided. The sign up credentials are also validated on front end and back end to avoid repeated API calls.
+\section{Installation testing}
+Once the server was deployed to Heroku, its domain was tested using Postman. A login request was sent to it to check whether a response is returned or not. It ended up sending the response back. The mobile application was installed on android through the generated apk. It successfully installed however it prompted that the author is not trust worthy. This happens if the application is not registered with Google Play. It can cause doubt in the users who will avoid from using the application.
+\newpage
+
+\section{Testing Tables}
+% Your image goes here
+\noindent
+\input{testcase/tc001}
+\input{testcase/tc002}
+\input{testcase/tc003}
+\input{testcase/tc004}
+\input{testcase/tc005}
+\input{testcase/tc006}
+\input{testcase/tc007}
+\input{testcase/tc008}
+\input{testcase/tc009}

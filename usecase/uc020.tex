@@ -1,0 +1,41 @@
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+% \usepackage[normalem]{ulem}
+% \useunder{\uline}{\ul}{}
+\begin{table}[]
+    \caption{UC-020}
+    \begin{tabular}{|l|p{5cm}p{5cm}|}
+        \hline
+        {\color[HTML]{231F20} \textbf{Use Case ID}}                                                     & \multicolumn{2}{l|}{{\color[HTML]{231F20} \textbf{UC-020}}}                                                                                                                                                                                                                                              \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Use Case Name}}                                                   & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Resolve   a complaint}}                                                                                                                                                                                                                \\ \hline
+        {\color[HTML]{231F20} \textbf{Actors}}                                                          & \multicolumn{2}{l|}{{\color[HTML]{231F20} CRO}}                                                                                                                                                                                                                                                          \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Data}}                                                            & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} ---}}                                                                                                                                                                                                                                  \\ \hline
+        {\color[HTML]{231F20} \textbf{Trigger}}                                                         & \multicolumn{2}{l|}{{\color[HTML]{231F20} Open   a complaint}}                                                                                                                                                                                                                                           \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Pre-condition}}                                                   & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Already   logged in.}}                                                                                                                                                                                                                 \\ \hline
+        {\color[HTML]{231F20} \textbf{Assumptions}}                                                     & \multicolumn{2}{l|}{{\color[HTML]{231F20} Actors   have access to internet}}                                                                                                                                                                                                                             \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{c|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Actor Action}}}                                                                                              & \multicolumn{1}{c|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{System Response}}}                    \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }}                                                                                                              & \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                                 \\
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Step 1:}}}}                                                                            & \multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Step   2:}}}                             \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Upon complaint’s contents, actor   will access those parts of the system that are concerned.}}                  & {\color[HTML]{231F20} On successful handling of problem, user will be notified, and chat   will be terminated.} \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Actor will be able to view   system’s databases related to that customer in-order to resolve their query.}}     & {\color[HTML]{231F20} }                                                                                         \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                 & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Actor will be able to view all   sorts of transactions performed by the customer.}}                             & {\color[HTML]{231F20} }                                                                                         \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \multirow{-7}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Normal flow of events}}} & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} On unsuccessful handling, the   customer will have meeting scheduled with the respected manager by the ACTOR.}} & {\color[HTML]{231F20} }                                                                                         \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Alternate flow of events}}                                        & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} ·         Meeting gets scheduled with the manager and   customer.}}                                                                                                                                                                    \\ \hline
+        {\color[HTML]{231F20} \textbf{Main success scenarios}}                                          & \multicolumn{2}{l|}{{\color[HTML]{231F20} Actor   successfully resolves the complaint.}}                                                                                                                                                                                                                 \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Post-condition}}                                                  & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Complaint   gets removed from Actor’s dashboard.}}                                                                                                                                                                                     \\ \hline
+    \end{tabular}
+\end{table}

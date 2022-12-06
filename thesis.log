@@ -1,0 +1,1887 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.12.6)  6 DEC 2022 19:07
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/Tauheed/Downloads/projectReportTemplate/projectReportTemplate/thesis.tex
+(c:/Users/Tauheed/Downloads/projectReportTemplate/projectReportTemplate/thesis.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-11-02> (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/11/30 3.83 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen141
+\l@unhyphenated=\language79
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2022/06/06 4.5 verbatim text (tvz,hv)
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+\FV@CodeLineNo=\count196
+\FV@InFile=\read3
+\FV@TabBox=\box51
+\c@FancyVerbLine=\count197
+\FV@StepNumber=\count198
+\FV@OutFile=\write3
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip50
+\multirow@cntb=\count199
+\multirow@dima=\skip51
+\bigstrutjot=\dimen142
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks19
+\float@box=\box52
+\@float@everytoks=\toks20
+\@floatcapt=\box53
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count267
+\rotFPtop=\skip52
+\rotFPbot=\skip53
+\rot@float@box=\box54
+\rot@mess@toks=\toks21
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/slashbox\slashbox.sty
+slashbox style by K.Yasuoka, May 1993.
+\@slashboxa=\box55
+\@slashboxb=\box56
+\@slashboxc=\box57
+\@slashboxwd=\count268
+\@slashboxht=\count269
+\@slashsepl=\dimen145
+\@slashsepr=\dimen146
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/pict2e\p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks22
+\@arclen=\dimen147
+\@arcrad=\dimen148
+\pIIe@tempdima=\dimen149
+\pIIe@tempdimb=\dimen150
+\pIIe@tempdimc=\dimen151
+\pIIe@tempdimd=\dimen152
+\pIIe@tempdime=\dimen153
+\pIIe@tempdimf=\dimen154
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks23
+\SOUL@lasttoken=\toks24
+\SOUL@cmds=\toks25
+\SOUL@buffer=\toks26
+\SOUL@token=\toks27
+\SOUL@spaceskip=\skip54
+\SOUL@ttwidth=\dimen155
+\SOUL@uldp=\dimen156
+\SOUL@ulht=\dimen157
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks28
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count270
+\LTcapwidth=\dimen158
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@gbox=\box62
+\LT@cols=\count271
+\LT@rows=\count272
+\c@LT@tables=\count273
+\c@LT@chunks=\count274
+\LT@p@ftn=\toks29
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/fancybox\fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box63
+\shadowsize=\dimen159
+\@Sbox=\box64
+\do@VerbBox=\toks30
+\the@fancyput=\toks31
+\this@fancyput=\toks32
+\EndVerbatimTokens=\toks33
+\Verbatim@Outfile=\write4
+\Verbatim@Infile=\read4
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen160
+)) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen161
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count275
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count276
+\leftroot@=\count277
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count278
+\DOTSCASE@=\count279
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box65
+\strutbox@=\box66
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen162
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count280
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count281
+\dotsspace@=\muskip16
+\c@parentequation=\count282
+\dspbrk@lvl=\count283
+\tag@help=\toks35
+\row@=\count284
+\column@=\count285
+\maxfields@=\count286
+\andhelp@=\toks36
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks37
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen169
+\ar@mcellbox=\box67
+\extrarowheight=\dimen170
+\NC@list=\toks39
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box68
+)
+\rotheadsize=\dimen171
+\c@nlinenum=\count287
+\TeXr@lab=\toks40
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen172
+\WF@size=\dimen173
+\c@WF@wrappedlines=\count288
+\WF@box=\box69
+\WF@everypar=\toks41
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+\everycr=\toks42
+\minrowclearance=\skip64
+\rownum=\count289
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (buics.sty
+Package: buics 2015/03/10 0.9f 
+
+Document Style `BUICS Thesis' 0.9f <2015/03/10>
+(C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count290
+\Gm@cntv=\count291
+\c@Gm@tempcnt=\count292
+\Gm@bindingoffset=\dimen174
+\Gm@wd@mp=\dimen175
+\Gm@odd@mp=\dimen176
+\Gm@even@mp=\dimen177
+\Gm@layoutwidth=\dimen178
+\Gm@layoutheight=\dimen179
+\Gm@layouthoffset=\dimen180
+\Gm@layoutvoffset=\dimen181
+\Gm@dimlist=\toks43
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/courier-scaled\couriers.sty
+Package: couriers 2004/07/10 Scaled Courier (HS) 
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen182
+\captionmargin=\dimen183
+\caption@leftmargin=\dimen184
+\caption@rightmargin=\dimen185
+\caption@width=\dimen186
+\caption@indent=\dimen187
+\caption@parindent=\dimen188
+\caption@hangindent=\dimen189
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count293
+\c@continuedfloat=\count294
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-11-02 L3 programming layer (loader) 
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count295
+\l__pdf_internal_box=\box70
+))
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count296
+\l__lipsum_a_int=\count297
+\l__lipsum_b_int=\count298
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
+Package: backref 2021/02/04 v1.41 Bibliographical back referencing
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count299
+)
+\@linkdim=\dimen190
+\Hy@linkcounter=\count300
+\Hy@pagecounter=\count301
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count302
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 4045.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4045.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4045.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4045.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4045.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4045.
+Package hyperref Info: Option `linktocpage' set `true' on input line 4045.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4045.
+Package hyperref Info: Option `hyperindex' set `true' on input line 4045.
+Package hyperref Info: Option `hyperfigures' set `true' on input line 4045.
+Package hyperref Info: Hyper figures ON on input line 4160.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing ON on input line 4180.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count303
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen191
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+)
+\Fld@menulength=\count304
+\Field@Width=\dimen192
+\Fld@charsize=\dimen193
+Package hyperref Info: Hyper figures ON on input line 6025.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing ON on input line 6040.
+Package hyperref Info: Link coloring ON on input line 6045.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count305
+\c@Item=\count306
+\c@Hfootnote=\count307
+)
+Package hyperref Info: Driver: hpdftex.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
+\Fld@listcount=\count308
+\c@bookmark@seq@number=\count309
+\Hy@SectionHShift=\skip65
+)
+\@vivatext=\box71
+\@supervisorstext=\box72
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count310
+)
+\MT@toks=\toks44
+\MT@tempbox=\box73
+\MT@count=\count311
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
+LaTeX Info: Redefining \leftprotrusion on input line 1046.
+LaTeX Info: Redefining \rightprotrusion on input line 1056.
+LaTeX Info: Redefining \textls on input line 1234.
+\MT@outer@kern=\dimen194
+LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
+\MT@listname@count=\count312
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 900.
+LaTeX Info: Redefining \lslig on input line 900.
+\MT@outer@space=\skip66
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
+)) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip67
+\f@nch@O@elh=\skip68
+\f@nch@O@erh=\skip69
+\f@nch@O@olh=\skip70
+\f@nch@O@orh=\skip71
+\f@nch@O@elf=\skip72
+\f@nch@O@erf=\skip73
+\f@nch@O@olf=\skip74
+\f@nch@O@orf=\skip75
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 412.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 412.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 412.
+Package hyperref Info: Option `breaklinks' set `true' on input line 412.
+Package hyperref Info: Option `linktocpage' set `true' on input line 412.
+Package hyperref Info: Option `colorlinks' set `true' on input line 412.
+)
+\@indexfile=\write5
+\openout5 = `thesis.idx'.
+
+
+Writing index file thesis.idx
+
+LaTeX Warning: \include should only be used after \begin{document} on input line 91.
+
+(mymacros.tex)
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 97.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+) (thesis.aux (abstract.aux) (acknows.aux) (abbrevs.aux) (chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux
+
+LaTeX Warning: Label `fig:cpm_detail_user' multiply defined.
+
+
+LaTeX Warning: Label `create' multiply defined.
+
+
+LaTeX Warning: Label `create' multiply defined.
+
+
+LaTeX Warning: Label `create' multiply defined.
+
+
+LaTeX Warning: Label `create' multiply defined.
+
+) (chapter5.aux) (chapter6.aux
+
+LaTeX Warning: Label `Fig:Data1' multiply defined.
+
+
+LaTeX Warning: Label `Fig:Data2' multiply defined.
+
+
+LaTeX Warning: Label `Fig:Data1' multiply defined.
+
+
+LaTeX Warning: Label `Fig:Data2' multiply defined.
+
+) (chapter7.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count313
+\scratchdimen=\dimen195
+\scratchbox=\box74
+\nofMPsegments=\count314
+\nofMParguments=\count315
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count316
+\MPscratchDim=\dimen196
+\MPnumerator=\count317
+\makeMPintoPDFobject=\count318
+\everyMPtoPDFconversion=\toks46
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot twoside 
+* h-part:(L,W,R)=(99.58464pt, 426.79135pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=661.23584pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-15.36449pt
+* \headheight=15.5pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=103.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 97.
+(thesis.out) (thesis.out)
+\@outlinefile=\write6
+\openout6 = `thesis.out'.
+
+LaTeX Info: Redefining \microtypecontext on input line 97.
+Package microtype Info: Applying patch `item' on input line 97.
+Package microtype Info: Applying patch `toc' on input line 97.
+Package microtype Info: Applying patch `eqnum' on input line 97.
+Package microtype Info: Applying patch `footnote' on input line 97.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 97.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 141.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 141.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 141.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 141.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+) (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 141.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 141.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 141.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 141.
+\@crestbox=\box75
+<figures//BUI-Logo.jpg, id=371, 566.115pt x 676.02562pt>
+File: figures//BUI-Logo.jpg Graphic file (type jpg)
+<use figures//BUI-Logo.jpg>
+Package pdftex.def Info: figures//BUI-Logo.jpg  used on input line 149.
+(pdftex.def)             Requested size: 113.221pt x 135.20271pt.
+ [-3
+
+
+{C:/Users/Tauheed/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figures//BUI-Logo.jpg>] [-2
+
+
+
+] [-1] [0
+
+]
+\openout2 = `abstract.aux'.
+
+ (abstract.tex) [1
+
+
+]
+\openout2 = `acknows.aux'.
+
+ (acknows.tex [2
+
+
+
+
+]) [3] [4
+
+
+
+] (thesis.toc [5
+
+] [6])
+\tf@toc=\write7
+\openout7 = `thesis.toc'.
+
+ [7] [8
+
+] (thesis.lof [9
+
+])
+\tf@lof=\write8
+\openout8 = `thesis.lof'.
+
+ [10] (thesis.lot)
+\tf@lot=\write9
+\openout9 = `thesis.lot'.
+
+ [11
+
+
+]
+\openout2 = `abbrevs.aux'.
+
+ (abbrevs.tex [12
+
+
+]) [13] [14
+
+
+
+]
+\openout2 = `chapter1.aux'.
+
+ (chapter1.tex
+Chapter 1.
+[1
+
+
+]) [2]
+\openout2 = `chapter2.aux'.
+
+ (chapter2.tex
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+) [3
+
+
+
+
+]
+\openout2 = `chapter3.aux'.
+
+ (chapter3.tex [4
+
+
+
+
+]
+Chapter 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 10.
+
+Overfull \hbox (37.59993pt too wide) in paragraph at lines 10--23
+[][] 
+ []
+
+
+Underfull \vbox (badness 3118) has occurred while \output is active []
+
+ [5] [6]
+
+LaTeX Warning: Reference `auth' on page 7 undefined on input line 59.
+
+[7] [8]
+<figures/UseCase Diagrams/Use Case Diagram-1.png, id=811, 1084.05pt x 1012.86404pt>
+File: figures/UseCase Diagrams/Use Case Diagram-1.png Graphic file (type png)
+<use figures/UseCase Diagrams/Use Case Diagram-1.png>
+Package pdftex.def Info: figures/UseCase Diagrams/Use Case Diagram-1.png  used on input line 86.
+(pdftex.def)             Requested size: 520.33809pt x 486.16922pt.
+ [9 <./figures/UseCase Diagrams/Use Case Diagram-1.png>]
+<figures/UseCase Diagrams/Use Case Diagram-3.png, id=817, 1156.32pt x 868.32405pt>
+File: figures/UseCase Diagrams/Use Case Diagram-3.png Graphic file (type png)
+<use figures/UseCase Diagrams/Use Case Diagram-3.png>
+Package pdftex.def Info: figures/UseCase Diagrams/Use Case Diagram-3.png  used on input line 97.
+(pdftex.def)             Requested size: 635.97797pt x 477.5797pt.
+ [10 <./figures/UseCase Diagrams/Use Case Diagram-3.png>]
+<figures/UseCase Diagrams/Use Case Diagram-4.png, id=823, 939.51pt x 868.32405pt>
+File: figures/UseCase Diagrams/Use Case Diagram-4.png Graphic file (type png)
+<use figures/UseCase Diagrams/Use Case Diagram-4.png>
+Package pdftex.def Info: figures/UseCase Diagrams/Use Case Diagram-4.png  used on input line 112.
+(pdftex.def)             Requested size: 516.7321pt x 477.5797pt.
+ [11 <./figures/UseCase Diagrams/Use Case Diagram-4.png>]
+<figures/UseCase Diagrams/Use Case Diagram-2.png, id=829, 1120.185pt x 1157.40405pt>
+File: figures/UseCase Diagrams/Use Case Diagram-2.png Graphic file (type png)
+<use figures/UseCase Diagrams/Use Case Diagram-2.png>
+Package pdftex.def Info: figures/UseCase Diagrams/Use Case Diagram-2.png  used on input line 127.
+(pdftex.def)             Requested size: 448.06606pt x 462.95343pt.
+ [12 <./figures/UseCase Diagrams/Use Case Diagram-2.png>] (usecase/uc001.tex
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]|\T1/ptm/m/n/10.95 (+20) Will be told to ask their
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 29.
+(C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--35
+[][] 
+ []
+
+) (usecase/uc002.tex
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]|\T1/ptm/m/n/10.95 (+20) Actor can use their
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+\T1/ptm/m/n/10.95 (+20) Google/Apple ID to cre-ate
+ []
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--41
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (usecase/uc003.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 28--28
+[]|\T1/ptm/m/n/10.95 (+20) User will pro-vide their user-
+ []
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--41
+[][] 
+ []
+
+) (usecase/uc004.tex
+Underfull \hbox (badness 2065) in paragraph at lines 35--35
+\T1/ptm/m/n/10.95 (+20) CRUD op-er-a-tions on cre-ated
+ []
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--39
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (usecase/uc005.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+
+Underfull \hbox (badness 3209) in paragraph at lines 28--28
+[]|\T1/ptm/m/n/10.95 (+20) User will se-lect projects on
+ []
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--37
+[][] 
+ []
+
+) (usecase/uc006.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--37
+[][] 
+ []
+
+) (usecase/uc007.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--39
+[][] 
+ []
+
+) (usecase/uc008.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 26--26
+[]|\T1/ptm/m/n/10.95 (+20) All the users as-so-ci-ated with
+ []
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--39
+[][] 
+ []
+
+) (usecase/uc009.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--33
+[][] 
+ []
+
+) (usecase/uc010.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1.
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 3--37
+[][] 
+ []
+
+) (usecase/uc011.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--37
+[][] 
+ []
+
+) (usecase/uc012.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 7.
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 9--43
+[][] 
+ []
+
+) (usecase/uc013.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 7.
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 9--43
+[][] 
+ []
+
+) (usecase/uc014.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--49
+[][] 
+ []
+
+) (usecase/uc015.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 7.
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 32--32
+\T1/ptm/m/n/10.95 (+20) tered au-to-mat-i-cally in shown
+ []
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 9--39
+[][] 
+ []
+
+) (usecase/uc016.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 36--36
+[]|\T1/ptm/m/n/10.95 (+20) Meetings rea-sons can in-volve
+ []
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--49
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 19.96356pt on input line 49.
+
+) (usecase/uc017.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 32--32
+[]|\T1/ptm/m/n/10.95 (+20) Upon up-dates re-ceived from
+ []
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--45
+[][] 
+ []
+
+) (usecase/uc018.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--37
+[][] 
+ []
+
+) (usecase/uc019.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 7--40
+[][] 
+ []
+
+) (usecase/uc020.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 7.
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 34--34
+\T1/ptm/m/n/10.95 (+20) cus-tomer will have meet-ing
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 34--34
+\T1/ptm/m/n/10.95 (+20) sched-uled with the re-spected
+ []
+
+
+Overfull \hbox (5.17465pt too wide) in paragraph at lines 9--41
+[][] 
+ []
+
+) [13]) [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32]
+\openout2 = `chapter4.aux'.
+
+ (chapter4.tex
+Chapter 4.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 6.
+
+<figures/architecture.png, id=920, 824.6007pt x 623.6901pt>
+File: figures/architecture.png Graphic file (type png)
+<use figures/architecture.png>
+Package pdftex.def Info: figures/architecture.png  used on input line 10.
+(pdftex.def)             Requested size: 329.83443pt x 249.47162pt.
+[33
+
+
+
+
+ <./figures/architecture.png>]
+<figures/web Concept/web-auth package.png, id=931, 311.4837pt x 132.2541pt>
+File: figures/web Concept/web-auth package.png Graphic file (type png)
+<use figures/web Concept/web-auth package.png>
+Package pdftex.def Info: figures/web Concept/web-auth package.png  used on input line 30.
+(pdftex.def)             Requested size: 249.1873pt x 105.8034pt.
+<figures/web Concept/web-crm_package.png, id=932, 259.4493pt x 143.8173pt>
+File: figures/web Concept/web-crm_package.png Graphic file (type png)
+<use figures/web Concept/web-crm_package.png>
+Package pdftex.def Info: figures/web Concept/web-crm_package.png  used on input line 38.
+(pdftex.def)             Requested size: 207.5597pt x 115.05399pt.
+ [34 <./figures/web Concept/web-auth package.png>]
+<figures/web Concept/web-admin_package.png, id=939, 268.8444pt x 174.8934pt>
+File: figures/web Concept/web-admin_package.png Graphic file (type png)
+<use figures/web Concept/web-admin_package.png>
+Package pdftex.def Info: figures/web Concept/web-admin_package.png  used on input line 47.
+(pdftex.def)             Requested size: 268.84375pt x 174.89297pt.
+<figures/web Concept/web-web portal.png, id=940, 203.0787pt x 250.0542pt>
+File: figures/web Concept/web-web portal.png Graphic file (type png)
+<use figures/web Concept/web-web portal.png>
+Package pdftex.def Info: figures/web Concept/web-web portal.png  used on input line 55.
+(pdftex.def)             Requested size: 243.6932pt x 300.06352pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35 <./figures/web Concept/web-crm_package.png> <./figures/web Concept/web-admin_package.png>] [36 <./figures/web Concept/web-web portal.png>]
+<figures//Sequence Diagrams/Auth_1.png, id=952, 383.7537pt x 362.0727pt>
+File: figures//Sequence Diagrams/Auth_1.png Graphic file (type png)
+<use figures//Sequence Diagrams/Auth_1.png>
+Package pdftex.def Info: figures//Sequence Diagrams/Auth_1.png  used on input line 66.
+(pdftex.def)             Requested size: 460.50212pt x 434.48506pt.
+
+Overfull \hbox (33.71077pt too wide) in paragraph at lines 66--67
+ [] 
+ []
+
+[37 <./figures//Sequence Diagrams/Auth_1.png>]
+<figures//Sequence Diagrams/Auth_2.png, id=959, 394.5942pt x 362.7954pt>
+File: figures//Sequence Diagrams/Auth_2.png Graphic file (type png)
+<use figures//Sequence Diagrams/Auth_2.png>
+Package pdftex.def Info: figures//Sequence Diagrams/Auth_2.png  used on input line 74.
+(pdftex.def)             Requested size: 473.51065pt x 435.3523pt.
+
+Overfull \hbox (46.7193pt too wide) in paragraph at lines 74--75
+ [] 
+ []
+
+[38 <./figures//Sequence Diagrams/Auth_2.png>]
+<figures//Sequence Diagrams/New CRO.png, id=965, 384.4764pt x 304.9794pt>
+File: figures//Sequence Diagrams/New CRO.png Graphic file (type png)
+<use figures//Sequence Diagrams/New CRO.png>
+Package pdftex.def Info: figures//Sequence Diagrams/New CRO.png  used on input line 82.
+(pdftex.def)             Requested size: 461.36935pt x 365.97345pt.
+
+Overfull \hbox (34.578pt too wide) in paragraph at lines 82--83
+ [] 
+ []
+
+[39 <./figures//Sequence Diagrams/New CRO.png>]
+<figures//Sequence Diagrams/New Project.png, id=971, 380.1402pt x 231.9867pt>
+File: figures//Sequence Diagrams/New Project.png Graphic file (type png)
+<use figures//Sequence Diagrams/New Project.png>
+Package pdftex.def Info: figures//Sequence Diagrams/New Project.png  used on input line 90.
+(pdftex.def)             Requested size: 456.16594pt x 278.38263pt.
+
+Overfull \hbox (29.37459pt too wide) in paragraph at lines 90--91
+ [] 
+ []
+
+<figures//Sequence Diagrams/Fetch Meetings.png, id=972, 390.9807pt x 182.1204pt>
+File: figures//Sequence Diagrams/Fetch Meetings.png Graphic file (type png)
+<use figures//Sequence Diagrams/Fetch Meetings.png>
+Package pdftex.def Info: figures//Sequence Diagrams/Fetch Meetings.png  used on input line 97.
+(pdftex.def)             Requested size: 469.17448pt x 218.54338pt.
+
+Overfull \hbox (42.38313pt too wide) in paragraph at lines 97--98
+ [] 
+ []
+
+[40 <./figures//Sequence Diagrams/New Project.png> <./figures//Sequence Diagrams/Fetch Meetings.png>]
+<figures//Sequence Diagrams/Make Payment.png, id=979, 380.1402pt x 217.5327pt>
+File: figures//Sequence Diagrams/Make Payment.png Graphic file (type png)
+<use figures//Sequence Diagrams/Make Payment.png>
+Package pdftex.def Info: figures//Sequence Diagrams/Make Payment.png  used on input line 105.
+(pdftex.def)             Requested size: 456.16594pt x 261.0379pt.
+
+Overfull \hbox (29.37459pt too wide) in paragraph at lines 105--106
+ [] 
+ []
+
+<figures//Sequence Diagrams/Chat.png, id=980, 546.3612pt x 254.3904pt>
+File: figures//Sequence Diagrams/Chat.png Graphic file (type png)
+<use figures//Sequence Diagrams/Chat.png>
+Package pdftex.def Info: figures//Sequence Diagrams/Chat.png  used on input line 112.
+(pdftex.def)             Requested size: 491.72054pt x 228.94923pt.
+
+Overfull \hbox (64.92918pt too wide) in paragraph at lines 112--113
+ [] 
+ []
+
+[41 <./figures//Sequence Diagrams/Make Payment.png> <./figures//Sequence Diagrams/Chat.png>]
+<figures//Sequence Diagrams/Book Project.png, id=987, 380.1402pt x 333.8874pt>
+File: figures//Sequence Diagrams/Book Project.png Graphic file (type png)
+<use figures//Sequence Diagrams/Book Project.png>
+Package pdftex.def Info: figures//Sequence Diagrams/Book Project.png  used on input line 120.
+(pdftex.def)             Requested size: 456.16594pt x 400.66287pt.
+
+Overfull \hbox (29.37459pt too wide) in paragraph at lines 120--121
+ [] 
+ []
+
+[42 <./figures//Sequence Diagrams/Book Project.png>]
+LaTeX Font Info:    Trying to load font information for T1+pcrs on input line 130.
+ (C:\Users\Tauheed\AppData\Local\Programs\MiKTeX\tex/latex/courier-scaled\t1pcrs.fd
+File: t1pcrs.fd 2004/07/09 scalable font definitions for T1/pcrs.
+)
+LaTeX Font Info:    Font shape `T1/pcrs/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 130.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pcrs' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+<figures/web Concept/struct.png, id=994, 739.76375pt x 489.83pt>
+File: figures/web Concept/struct.png Graphic file (type png)
+<use figures/web Concept/struct.png>
+Package pdftex.def Info: figures/web Concept/struct.png  used on input line 169.
+(pdftex.def)             Requested size: 369.88097pt x 244.9144pt.
+ [43] [44 <./figures/web Concept/struct.png (PNG copy)>]
+<figures/web Concept/web-deployment (1).png, id=1008, 419.8887pt x 541.3023pt>
+File: figures/web Concept/web-deployment (1).png Graphic file (type png)
+<use figures/web Concept/web-deployment (1).png>
+Package pdftex.def Info: figures/web Concept/web-deployment (1).png  used on input line 182.
+(pdftex.def)             Requested size: 377.89635pt x 487.16757pt.
+ [45 <./figures/web Concept/web-deployment (1).png>]
+<figures/mobile/01_Loding screen.png, id=1016, 376.40625pt x 815.045pt>
+File: figures/mobile/01_Loding screen.png Graphic file (type png)
+<use figures/mobile/01_Loding screen.png>
+Package pdftex.def Info: figures/mobile/01_Loding screen.png  used on input line 196.
+(pdftex.def)             Requested size: 225.84547pt x 489.03076pt.
+<figures/mobile/02_1st Screen.png, id=1017, 376.40625pt x 815.045pt>
+File: figures/mobile/02_1st Screen.png Graphic file (type png)
+<use figures/mobile/02_1st Screen.png>
+Package pdftex.def Info: figures/mobile/02_1st Screen.png  used on input line 202.
+(pdftex.def)             Requested size: 301.1254pt x 652.03688pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [47 <./figures/mobile/01_Loding screen.png>]
+Overfull \vbox (37.20102pt too high) has occurred while \output is active []
+
+ [48 <./figures/mobile/02_1st Screen.png>]
+<figures/mobile/03_Login Page.png, id=1032, 376.40625pt x 815.045pt>
+File: figures/mobile/03_Login Page.png Graphic file (type png)
+<use figures/mobile/03_Login Page.png>
+Package pdftex.def Info: figures/mobile/03_Login Page.png  used on input line 210.
+(pdftex.def)             Requested size: 301.1254pt x 652.03688pt.
+
+Overfull \vbox (37.20102pt too high) has occurred while \output is active []
+
+ [49 <./figures/mobile/03_Login Page.png>]
+<figures/mobile/04_Sign Up.png, id=1039, 376.40625pt x 815.045pt>
+File: figures/mobile/04_Sign Up.png Graphic file (type png)
+<use figures/mobile/04_Sign Up.png>
+Package pdftex.def Info: figures/mobile/04_Sign Up.png  used on input line 217.
+(pdftex.def)             Requested size: 301.1254pt x 652.03688pt.
+
+Overfull \vbox (37.20102pt too high) has occurred while \output is active []
+
+ [50 <./figures/mobile/04_Sign Up.png>]
+<figures/mobile/05_Client_Home.png, id=1045, 376.40625pt x 884.30376pt>
+File: figures/mobile/05_Client_Home.png Graphic file (type png)
+<use figures/mobile/05_Client_Home.png>
+Package pdftex.def Info: figures/mobile/05_Client_Home.png  used on input line 224.
+(pdftex.def)             Requested size: 225.84547pt x 530.58635pt.
+ [51 <./figures/mobile/05_Client_Home.png>]
+<figures/mobile/06_Drawer.png, id=1051, 376.40625pt x 1287.81125pt>
+File: figures/mobile/06_Drawer.png Graphic file (type png)
+<use figures/mobile/06_Drawer.png>
+Package pdftex.def Info: figures/mobile/06_Drawer.png  used on input line 231.
+(pdftex.def)             Requested size: 188.20265pt x 643.90405pt.
+
+Overfull \vbox (29.06819pt too high) has occurred while \output is active []
+
+ [52 <./figures/mobile/06_Drawer.png>]
+<figures/mobile/07_Search.png, id=1057, 376.40625pt x 885.3075pt>
+File: figures/mobile/07_Search.png Graphic file (type png)
+<use figures/mobile/07_Search.png>
+Package pdftex.def Info: figures/mobile/07_Search.png  used on input line 238.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [53 <./figures/mobile/07_Search.png>]
+<figures/mobile/08_Categories.png, id=1063, 376.40625pt x 815.045pt>
+File: figures/mobile/08_Categories.png Graphic file (type png)
+<use figures/mobile/08_Categories.png>
+Package pdftex.def Info: figures/mobile/08_Categories.png  used on input line 245.
+(pdftex.def)             Requested size: 301.1254pt x 652.03688pt.
+
+Overfull \vbox (37.20102pt too high) has occurred while \output is active []
+
+ [54 <./figures/mobile/08_Categories.png>]
+<figures/mobile/10_Project_Details.png, id=1069, 376.40625pt x 1936.23375pt>
+File: figures/mobile/10_Project_Details.png Graphic file (type png)
+<use figures/mobile/10_Project_Details.png>
+Package pdftex.def Info: figures/mobile/10_Project_Details.png  used on input line 253.
+(pdftex.def)             Requested size: 131.74416pt x 677.69197pt.
+
+Overfull \vbox (62.85611pt too high) has occurred while \output is active []
+
+ [55 <./figures/mobile/10_Project_Details.png>]
+<figures/mobile/11_Book Project.png, id=1076, 376.40625pt x 1128.215pt>
+File: figures/mobile/11_Book Project.png Graphic file (type png)
+<use figures/mobile/11_Book Project.png>
+Package pdftex.def Info: figures/mobile/11_Book Project.png  used on input line 260.
+(pdftex.def)             Requested size: 225.84547pt x 676.93423pt.
+
+Overfull \vbox (62.09837pt too high) has occurred while \output is active []
+
+ [56 <./figures/mobile/11_Book Project.png>]
+<figures/mobile/12_Profile.png, id=1082, 376.40625pt x 885.3075pt>
+File: figures/mobile/12_Profile.png Graphic file (type png)
+<use figures/mobile/12_Profile.png>
+Package pdftex.def Info: figures/mobile/12_Profile.png  used on input line 267.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [57 <./figures/mobile/12_Profile.png>]
+<figures/mobile/13_Confirmation.png, id=1088, 376.40625pt x 885.3075pt>
+File: figures/mobile/13_Confirmation.png Graphic file (type png)
+<use figures/mobile/13_Confirmation.png>
+Package pdftex.def Info: figures/mobile/13_Confirmation.png  used on input line 274.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [58 <./figures/mobile/13_Confirmation.png>]
+<figures/mobile/14_Wishlist.png, id=1094, 376.40625pt x 885.3075pt>
+File: figures/mobile/14_Wishlist.png Graphic file (type png)
+<use figures/mobile/14_Wishlist.png>
+Package pdftex.def Info: figures/mobile/14_Wishlist.png  used on input line 281.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [59 <./figures/mobile/14_Wishlist.png>]
+<figures/mobile/15_Investments.png, id=1100, 376.40625pt x 885.3075pt>
+File: figures/mobile/15_Investments.png Graphic file (type png)
+<use figures/mobile/15_Investments.png>
+Package pdftex.def Info: figures/mobile/15_Investments.png  used on input line 288.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [60 <./figures/mobile/15_Investments.png>]
+<figures/mobile/16_Book Meeting.png, id=1106, 376.40625pt x 885.3075pt>
+File: figures/mobile/16_Book Meeting.png Graphic file (type png)
+<use figures/mobile/16_Book Meeting.png>
+Package pdftex.def Info: figures/mobile/16_Book Meeting.png  used on input line 295.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [61 <./figures/mobile/16_Book Meeting.png>]
+<figures/mobile/17_Investment_Detail.png, id=1113, 376.40625pt x 991.705pt>
+File: figures/mobile/17_Investment_Detail.png Graphic file (type png)
+<use figures/mobile/17_Investment_Detail.png>
+Package pdftex.def Info: figures/mobile/17_Investment_Detail.png  used on input line 302.
+(pdftex.def)             Requested size: 225.84547pt x 595.0276pt.
+ [62 <./figures/mobile/17_Investment_Detail.png>]
+<figures/mobile/18_Payment.png, id=1119, 376.40625pt x 844.15375pt>
+File: figures/mobile/18_Payment.png Graphic file (type png)
+<use figures/mobile/18_Payment.png>
+Package pdftex.def Info: figures/mobile/18_Payment.png  used on input line 309.
+(pdftex.def)             Requested size: 301.1254pt x 675.32391pt.
+
+Overfull \vbox (60.48805pt too high) has occurred while \output is active []
+
+ [63 <./figures/mobile/18_Payment.png>]
+<figures/mobile/19_Owner_Home.png, id=1125, 376.40625pt x 815.045pt>
+File: figures/mobile/19_Owner_Home.png Graphic file (type png)
+<use figures/mobile/19_Owner_Home.png>
+Package pdftex.def Info: figures/mobile/19_Owner_Home.png  used on input line 317.
+(pdftex.def)             Requested size: 263.48257pt x 570.5276pt.
+ [64 <./figures/mobile/19_Owner_Home.png>]
+<figures/mobile/20_Project.png, id=1131, 376.40625pt x 1072.005pt>
+File: figures/mobile/20_Project.png Graphic file (type png)
+<use figures/mobile/20_Project.png>
+Package pdftex.def Info: figures/mobile/20_Project.png  used on input line 324.
+(pdftex.def)             Requested size: 225.84547pt x 643.20798pt.
+
+Overfull \vbox (28.37212pt too high) has occurred while \output is active []
+
+ [65 <./figures/mobile/20_Project.png>]
+<figures/mobile/21_New Project.png, id=1137, 376.40625pt x 1415.2875pt>
+File: figures/mobile/21_New Project.png Graphic file (type png)
+<use figures/mobile/21_New Project.png>
+Package pdftex.def Info: figures/mobile/21_New Project.png  used on input line 331.
+(pdftex.def)             Requested size: 188.20265pt x 707.64203pt.
+<figures/mobile/22_Projects.png, id=1138, 376.40625pt x 885.3075pt>
+File: figures/mobile/22_Projects.png Graphic file (type png)
+<use figures/mobile/22_Projects.png>
+Package pdftex.def Info: figures/mobile/22_Projects.png  used on input line 337.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+
+Overfull \vbox (92.80617pt too high) has occurred while \output is active []
+
+ [66 <./figures/mobile/21_New Project.png>]
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [67 <./figures/mobile/22_Projects.png>]
+<figures/mobile/23_Meetings.png, id=1150, 376.40625pt x 885.3075pt>
+File: figures/mobile/23_Meetings.png Graphic file (type png)
+<use figures/mobile/23_Meetings.png>
+Package pdftex.def Info: figures/mobile/23_Meetings.png  used on input line 344.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [68 <./figures/mobile/23_Meetings.png>]
+<figures/mobile/24_Owner Drawer.png, id=1156, 376.40625pt x 906.38625pt>
+File: figures/mobile/24_Owner Drawer.png Graphic file (type png)
+<use figures/mobile/24_Owner Drawer.png>
+Package pdftex.def Info: figures/mobile/24_Owner Drawer.png  used on input line 351.
+(pdftex.def)             Requested size: 263.48257pt x 634.46605pt.
+
+Overfull \vbox (19.63019pt too high) has occurred while \output is active []
+
+ [69 <./figures/mobile/24_Owner Drawer.png>]
+<figures/mobile/25_Confirmation – 1.png, id=1162, 376.40625pt x 885.3075pt>
+File: figures/mobile/25_Confirmation – 1.png Graphic file (type png)
+<use figures/mobile/25_Confirmation – 1.png>
+Package pdftex.def Info: figures/mobile/25_Confirmation – 1.png  used on input line 358.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [70 <./figures/mobile/25_Confirmation – 1.png>]
+<figures/mobile/26_Managers.png, id=1168, 376.40625pt x 885.3075pt>
+File: figures/mobile/26_Managers.png Graphic file (type png)
+<use figures/mobile/26_Managers.png>
+Package pdftex.def Info: figures/mobile/26_Managers.png  used on input line 365.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [71 <./figures/mobile/26_Managers.png>]
+<figures/mobile/27_New Manager.png, id=1174, 376.40625pt x 885.3075pt>
+File: figures/mobile/27_New Manager.png Graphic file (type png)
+<use figures/mobile/27_New Manager.png>
+Package pdftex.def Info: figures/mobile/27_New Manager.png  used on input line 372.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [72 <./figures/mobile/27_New Manager.png>]
+<figures/mobile/09_CRM.png, id=1180, 376.40625pt x 807.015pt>
+File: figures/mobile/09_CRM.png Graphic file (type png)
+<use figures/mobile/09_CRM.png>
+Package pdftex.def Info: figures/mobile/09_CRM.png  used on input line 380.
+(pdftex.def)             Requested size: 263.48257pt x 564.90665pt.
+ [73 <./figures/mobile/09_CRM.png>]
+<figures/mobile/28_Register Complaint.png, id=1187, 376.40625pt x 885.3075pt>
+File: figures/mobile/28_Register Complaint.png Graphic file (type png)
+<use figures/mobile/28_Register Complaint.png>
+Package pdftex.def Info: figures/mobile/28_Register Complaint.png  used on input line 389.
+(pdftex.def)             Requested size: 225.84547pt x 531.1886pt.
+ [74 <./figures/mobile/28_Register Complaint.png>]
+<figures/mobile/29_Complaints.png, id=1193, 376.40625pt x 885.3075pt>
+File: figures/mobile/29_Complaints.png Graphic file (type png)
+<use figures/mobile/29_Complaints.png>
+Package pdftex.def Info: figures/mobile/29_Complaints.png  used on input line 397.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+<figures/mobile/30_Complaint Detail.png, id=1194, 376.40625pt x 885.3075pt>
+File: figures/mobile/30_Complaint Detail.png Graphic file (type png)
+<use figures/mobile/30_Complaint Detail.png>
+Package pdftex.def Info: figures/mobile/30_Complaint Detail.png  used on input line 404.
+(pdftex.def)             Requested size: 301.1254pt x 708.24696pt.
+
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [75 <./figures/mobile/29_Complaints.png>]
+Overfull \vbox (93.4111pt too high) has occurred while \output is active []
+
+ [76 <./figures/mobile/30_Complaint Detail.png>]
+<figures/web/01_Login.png, id=1205, 1927.2pt x 1084.05pt>
+File: figures/web/01_Login.png Graphic file (type png)
+<use figures/web/01_Login.png>
+Package pdftex.def Info: figures/web/01_Login.png  used on input line 413.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+<figures/web/02_Forgot Password.png, id=1206, 1927.2pt x 1084.05pt>
+File: figures/web/02_Forgot Password.png Graphic file (type png)
+<use figures/web/02_Forgot Password.png>
+Package pdftex.def Info: figures/web/02_Forgot Password.png  used on input line 419.
+(pdftex.def)             Requested size: 462.53746pt x 260.1773pt.
+
+Overfull \hbox (46.5461pt too wide) in paragraph at lines 419--420
+ [] 
+ []
+
+<figures/web/03_Reset Password.png, id=1207, 1927.2pt x 1084.05pt>
+File: figures/web/03_Reset Password.png Graphic file (type png)
+<use figures/web/03_Reset Password.png>
+Package pdftex.def Info: figures/web/03_Reset Password.png  used on input line 425.
+(pdftex.def)             Requested size: 462.53746pt x 260.1773pt.
+
+Overfull \hbox (46.5461pt too wide) in paragraph at lines 425--426
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77 <./figures/web/01_Login.png> <./figures/web/02_Forgot Password.png>] [78 <./figures/web/03_Reset Password.png>]
+<figures/web/4_Chat.png, id=1219, 1927.2pt x 1084.05pt>
+File: figures/web/4_Chat.png Graphic file (type png)
+<use figures/web/4_Chat.png>
+Package pdftex.def Info: figures/web/4_Chat.png  used on input line 433.
+(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+<figures/web/05_Profile.png, id=1220, 1927.2pt x 1181.41376pt>
+File: figures/web/05_Profile.png Graphic file (type png)
+<use figures/web/05_Profile.png>
+Package pdftex.def Info: figures/web/05_Profile.png  used on input line 440.
+(pdftex.def)             Requested size: 462.53746pt x 283.54509pt.
+
+Overfull \hbox (46.5461pt too wide) in paragraph at lines 440--441
+ [] 
+ []
+
+[79 <./figures/web/4_Chat.png> <./figures/web/05_Profile.png>]
+<figures/web_update/web_dash.jpg, id=1228, 1445.4pt x 736.25063pt>
+File: figures/web_update/web_dash.jpg Graphic file (type jpg)
+<use figures/web_update/web_dash.jpg>
+Package pdftex.def Info: figures/web_update/web_dash.jpg  used on input line 448.
+(pdftex.def)             Requested size: 404.70924pt x 206.14876pt.
+<figures/web_update/web_dash_hover.jpg, id=1229, 1445.4pt x 734.745pt>
+File: figures/web_update/web_dash_hover.jpg Graphic file (type jpg)
+<use figures/web_update/web_dash_hover.jpg>
+Package pdftex.def Info: figures/web_update/web_dash_hover.jpg  used on input line 455.
+(pdftex.def)             Requested size: 433.62335pt x 220.42519pt.
+
+Overfull \hbox (17.63199pt too wide) in paragraph at lines 455--456
+ [] 
+ []
+
+<figures/web_update/web_trans.jpg, id=1230, 1445.4pt x 709.90219pt>
+File: figures/web_update/web_trans.jpg Graphic file (type jpg)
+<use figures/web_update/web_trans.jpg>
+Package pdftex.def Info: figures/web_update/web_trans.jpg  used on input line 463.
+(pdftex.def)             Requested size: 433.62335pt x 212.97229pt.
+
+Overfull \hbox (17.63199pt too wide) in paragraph at lines 463--464
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80 <./figures/web_update/web_dash.jpg> <./figures/web_update/web_dash_hover.jpg>]
+<figures/web_update/web_trans_hover.jpg, id=1235, 1445.4pt x 709.90219pt>
+File: figures/web_update/web_trans_hover.jpg Graphic file (type jpg)
+<use figures/web_update/web_trans_hover.jpg>
+Package pdftex.def Info: figures/web_update/web_trans_hover.jpg  used on input line 470.
+(pdftex.def)             Requested size: 433.62335pt x 212.97229pt.
+
+Overfull \hbox (17.63199pt too wide) in paragraph at lines 470--471
+ [] 
+ []
+
+<figures/web_update/web_trans_modal.jpg, id=1236, 1445.4pt x 714.41907pt>
+File: figures/web_update/web_trans_modal.jpg Graphic file (type jpg)
+<use figures/web_update/web_trans_modal.jpg>
+Package pdftex.def Info: figures/web_update/web_trans_modal.jpg  used on input line 477.
+(pdftex.def)             Requested size: 433.62335pt x 214.32738pt.
+
+Overfull \hbox (17.63199pt too wide) in paragraph at lines 477--478
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81 <./figures/web_update/web_trans.jpg> <./figures/web_update/web_trans_hover.jpg>]
+<figures/web_update/web_meet.jpg, id=1241, 1445.4pt x 709.14937pt>
+File: figures/web_update/web_meet.jpg Graphic file (type jpg)
+<use figures/web_update/web_meet.jpg>
+Package pdftex.def Info: figures/web_update/web_meet.jpg  used on input line 485.
+(pdftex.def)             Requested size: 433.62335pt x 212.74644pt.
+
+Overfull \hbox (17.63199pt too wide) in paragraph at lines 485--486
+ [] 
+ []
+
+<figures/web_update/web_admin_crm.jpg, id=1242, 1445.4pt x 712.91344pt>
+File: figures/web_update/web_admin_crm.jpg Graphic file (type jpg)
+<use figures/web_update/web_admin_crm.jpg>
+Package pdftex.def Info: figures/web_update/web_admin_crm.jpg  used on input line 493.
+(pdftex.def)             Requested size: 433.62335pt x 213.87567pt.
+
+Overfull \hbox (17.63199pt too wide) in paragraph at lines 493--494
+ [] 
+ []
+
+<figures/web_update/web_admin_crm_modal.jpg, id=1243, 1445.4pt x 714.41907pt>
+File: figures/web_update/web_admin_crm_modal.jpg Graphic file (type jpg)
+<use figures/web_update/web_admin_crm_modal.jpg>
+Package pdftex.def Info: figures/web_update/web_admin_crm_modal.jpg  used on input line 500.
+(pdftex.def)             Requested size: 433.62335pt x 214.32738pt.
+
+Overfull \hbox (17.63199pt too wide) in paragraph at lines 500--501
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [82 <./figures/web_update/web_trans_modal.jpg> <./figures/web_update/web_meet.jpg>]
+<figures/web_update/web_admin_crm_modal_hover.jpg, id=1248, 1445.4pt x 732.48656pt>
+File: figures/web_update/web_admin_crm_modal_hover.jpg Graphic file (type jpg)
+<use figures/web_update/web_admin_crm_modal_hover.jpg>
+Package pdftex.def Info: figures/web_update/web_admin_crm_modal_hover.jpg  used on input line 507.
+(pdftex.def)             Requested size: 433.62335pt x 219.74765pt.
+
+Overfull \hbox (17.63199pt too wide) in paragraph at lines 507--508
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83 <./figures/web_update/web_admin_crm.jpg> <./figures/web_update/web_admin_crm_modal.jpg>]
+<figures/web/11_Profile.png, id=1253, 1927.2pt x 1084.05pt>
+File: figures/web/11_Profile.png Graphic file (type png)
+<use figures/web/11_Profile.png>
+Package pdftex.def Info: figures/web/11_Profile.png  used on input line 516.
+(pdftex.def)             Requested size: 462.53746pt x 260.1773pt.
+
+Overfull \hbox (46.5461pt too wide) in paragraph at lines 516--517
+ [] 
+ []
+
+<figures/web/14_Complaints.png, id=1254, 1927.2pt x 1084.05pt>
+File: figures/web/14_Complaints.png Graphic file (type png)
+<use figures/web/14_Complaints.png>
+Package pdftex.def Info: figures/web/14_Complaints.png  used on input line 522.
+(pdftex.def)             Requested size: 423.98532pt x 238.49173pt.
+
+Overfull \hbox (7.99396pt too wide) in paragraph at lines 522--523
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84 <./figures/web_update/web_admin_crm_modal_hover.jpg> <./figures/web/11_Profile.png>] [85 <./figures/web/14_Complaints.png>]
+<figures/error.png, id=1268, 1084.05pt x 2288.55pt>
+File: figures/error.png Graphic file (type png)
+<use figures/error.png>
+Package pdftex.def Info: figures/error.png  used on input line 550.
+(pdftex.def)             Requested size: 216.80615pt x 457.7019pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [86]
+<figures/Database.unknown.png, id=1273, 652.5981pt x 714.0276pt>
+File: figures/Database.unknown.png Graphic file (type png)
+<use figures/Database.unknown.png>
+Package pdftex.def Info: figures/Database.unknown.png  used on input line 560.
+(pdftex.def)             Requested size: 541.65628pt x 592.64276pt.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [87 <./figures/error.png>] [88 <./figures/Database.unknown.png>]
+\openout2 = `chapter5.aux'.
+
+ (chapter5.tex
+Chapter 5.
+[89
+
+
+
+
+]) [90]
+\openout2 = `chapter6.aux'.
+
+ (chapter6.tex
+Chapter 6.
+<figures/Testing/scroll1.png, id=1303, 1084.05pt x 2288.55pt>
+File: figures/Testing/scroll1.png Graphic file (type png)
+<use figures/Testing/scroll1.png>
+Package pdftex.def Info: figures/Testing/scroll1.png  used on input line 10.
+(pdftex.def)             Requested size: 143.39998pt x 302.72508pt.
+<figures/Testing/scroll2.png, id=1304, 1084.05pt x 2288.55pt>
+File: figures/Testing/scroll2.png Graphic file (type png)
+<use figures/Testing/scroll2.png>
+Package pdftex.def Info: figures/Testing/scroll2.png  used on input line 15.
+(pdftex.def)             Requested size: 143.39998pt x 302.72508pt.
+[91
+
+
+
+
+ <./figures/Testing/scroll1.png> <./figures/Testing/scroll2.png>]
+<figures/Testing/change1.png, id=1313, 1084.05pt x 2288.55pt>
+File: figures/Testing/change1.png Graphic file (type png)
+<use figures/Testing/change1.png>
+Package pdftex.def Info: figures/Testing/change1.png  used on input line 24.
+(pdftex.def)             Requested size: 163.88702pt x 345.95656pt.
+<figures/Testing/change2.png, id=1314, 1084.05pt x 2288.55pt>
+File: figures/Testing/change2.png Graphic file (type png)
+<use figures/Testing/change2.png>
+Package pdftex.def Info: figures/Testing/change2.png  used on input line 29.
+(pdftex.def)             Requested size: 163.88702pt x 345.95656pt.
+ [92 <./figures/Testing/change1.png> <./figures/Testing/change2.png>]
+<figures/Testing/chat1.png, id=1321, 1084.05pt x 2288.55pt>
+File: figures/Testing/chat1.png Graphic file (type png)
+<use figures/Testing/chat1.png>
+Package pdftex.def Info: figures/Testing/chat1.png  used on input line 38.
+(pdftex.def)             Requested size: 163.88702pt x 345.95656pt.
+<figures/Testing/chat2.png, id=1322, 1084.05pt x 2288.55pt>
+File: figures/Testing/chat2.png Graphic file (type png)
+<use figures/Testing/chat2.png>
+Package pdftex.def Info: figures/Testing/chat2.png  used on input line 43.
+(pdftex.def)             Requested size: 163.88702pt x 345.95656pt.
+ [93 <./figures/Testing/chat1.png> <./figures/Testing/chat2.png>]
+<figures/Testing/chat.png, id=1329, 650.43pt x 1373.13pt>
+File: figures/Testing/chat.png Graphic file (type png)
+<use figures/Testing/chat.png>
+Package pdftex.def Info: figures/Testing/chat.png  used on input line 52.
+(pdftex.def)             Requested size: 195.1305pt x 411.94218pt.
+ [94 <./figures/Testing/chat.png>]
+<figures/Testing/guest.png, id=1335, 1084.05pt x 2288.55pt>
+File: figures/Testing/guest.png Graphic file (type png)
+<use figures/Testing/guest.png>
+Package pdftex.def Info: figures/Testing/guest.png  used on input line 60.
+(pdftex.def)             Requested size: 216.80615pt x 457.7019pt.
+ [95 <./figures/Testing/guest.png>] [96] [97] (testcase/tc001.tex) (testcase/tc002.tex) (testcase/tc003.tex) (testcase/tc004.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (testcase/tc005.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (testcase/tc006.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (testcase/tc007.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (testcase/tc008.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (testcase/tc009.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)) [98] [99] [100]
+\openout2 = `chapter7.aux'.
+
+ (chapter7.tex
+Chapter 7.
+) [101
+
+
+
+
+] [102
+
+
+
+] (thesis.bbl (thesis.brf)
+\tf@brf=\write10
+\openout10 = `thesis.brf'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]\T1/ptm/m/n/12 (+20) Three Layer Ar-chi-tec-ture.  [][]$\T1/pcrs/m/n/12 https : / / www . ibm . com / cloud / learn /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]\T1/ptm/m/n/12 (+20) What is PERN stack ?  [][]$\T1/pcrs/m/n/12 https : / / www . geeksforgeeks . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]\T1/ptm/m/n/12 (+20) Functional De-com-po-si-tion.  [][]$\T1/pcrs/m/n/12 https : / / engineering .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/pcrs/m/n/12 purdue . edu / EPICS / k12 / Teachers / Teacher-[]Toolbox / 1 .
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 56--56
+[]\T1/ptm/m/n/12 (+20) Norman's 7 Prin-ci-ples.  [][]$\T1/pcrs/m/n/12 https : / / sites . google . com / a / nu . edu . pk /
+ []
+
+[103
+
+]) [104] (thesis.ind) (thesis.aux (abstract.aux) (acknows.aux) (abbrevs.aux) (chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux) (chapter7.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: F9F727CE3D3B23E357955447D424F672;16216.
+Package rerunfilecheck Info: File `thesis.brf' has not changed.
+(rerunfilecheck)             Checksum: 23ABC3D823B75198F42602E2ED79CB79;700.
+ ) 
+Here is how much of TeX's memory you used:
+ 19970 strings out of 475281
+ 346085 string characters out of 2773121
+ 1004565 words of memory out of 3000000
+ 40142 multiletter control sequences out of 15000+600000
+ 551906 words of font info for 336 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 87i,20n,91p,1074b,764s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/Tauheed/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/Tauheed/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Tauheed/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Tauheed/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Tauheed/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Tauheed/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (122 pages, 9955142 bytes).
+PDF statistics:
+ 1517 PDF objects out of 1728 (max. 8388607)
+ 346 named destinations out of 1000 (max. 500000)
+ 90717 words of extra memory for PDF output out of 106986 (max. 10000000)
+

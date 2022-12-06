@@ -1,0 +1,38 @@
+\chapter{System Implementation} \label{chap:sysImplementation}
+%\version{v1.10.2015}
+
+\section*{}
+\section{Tools and Technology Used}
+\begin{itemize}
+    \item React Native for Mobile Application \cite{native}
+    \item React for Web Application \cite{react}
+    \item NodeJS and Express for Server \cite{express}
+    \item Socket.io for Web Sockets \cite{socket}
+    \item PostgreSQL for Database \cite{sql}
+\end{itemize}
+\section{Development Environment/Languages Used}
+\begin{itemize}
+    \item Visual Studio Code
+    \item DataGrip
+    \item Postman
+    \item NodeJS
+    \item JavaScript
+    \item SQL
+    \item Adobe XD for designs
+\end{itemize}
+\section{Processing Logic/Algorithms}
+Since there isn't deep level of programming being performed, no specific algorithms are used. Even the searching is done using queries in database. Sorting is used which was provided by JavaScript by default. Minor filtering is also done through basic JavaScript filter method.
+
+\section{Application Access Security}
+\begin{itemize}
+    \item The passwords and other vulnerable data is encrypted using Bcrypt in the server side and stored in database accordingly.
+    \item The API returns a JWT token incase of successful login which is used to authenticate furhter API calls.
+    \item Validation of email and password is done both at front-end and back-end. To avoid huge number of API calls at front-end is the reason validation is done at front-end. To avoid DDoS attacks on the server by repeated API calls with random values is the reason validation is also done at back-end. The valid email format is accepted example@mail.com where "example" is email prefix and "@mail.com" is the domain. The valid password format is that it's length must be bigger than 8 and less than 15. It should also contain special characters in it.
+    \item Since there is a single route for Authentication in API, it returns JWT and role as well for different possible users of the application (Customer, Admin, CRO, Owner).
+\end{itemize}
+\section{Database Security}
+\begin{itemize}
+    \item Database can be accessed remotely due to its deployment on a Heroku Server.
+    \item The passwords and other vulnerable data is encrypted using Bcrypt in the server side and stored in database accordingly.
+    \item There is only one role in the database which accesses data and it is accessible through the Express Server.
+\end{itemize}

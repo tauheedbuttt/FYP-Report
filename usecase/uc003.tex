@@ -1,0 +1,41 @@
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
+    \caption{UC-003}
+    \begin{tabular}{|l|p{5cm}p{5cm}|}
+        \hline
+        {\color[HTML]{231F20} \textbf{Use Case ID}}                                                      & \multicolumn{2}{l|}{{\color[HTML]{231F20} \textbf{UC-003}}}                                                                                                                                                                                                   \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Use Case Name}}                                                    & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Reset Password}}                                                                                                                                                                            \\ \hline
+        {\color[HTML]{231F20} \textbf{Actors}}                                                           & \multicolumn{2}{l|}{{\color[HTML]{231F20} Owner, Customer}}                                                                                                                                                                                                   \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Data}}                                                             & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Email/Username associated with   account}}                                                                                                                                                  \\ \hline
+        {\color[HTML]{231F20} \textbf{Trigger}}                                                          & \multicolumn{2}{l|}{{\color[HTML]{231F20} Select Forgot Password button}}                                                                                                                                                                                     \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Pre-condition}}                                                    & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Have access to application}}                                                                                                                                                                \\ \hline
+        {\color[HTML]{231F20} \textbf{Assumptions}}                                                      & \multicolumn{2}{l|}{{\color[HTML]{231F20} Actors have access to internet}}                                                                                                                                                                                    \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }
+                                                                                                         & \multicolumn{1}{c|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Actor Action}}}
+                                                                                                         & \multicolumn{1}{c|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{System Response}}}                                                                                                                                                                  \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                  & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }}                                                                    & \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                                \\
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                  & \multicolumn{1}{p{5cm}|}{\multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Step 1:}}}}                                  & \multirow{-2}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Step 2:}}}                              \\ \cline{2-3}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                  & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} User will provide their username/email associated with the account.}} & \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                                \\ \cline{2-2}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                  & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} They will be mailed a link which will reset their password.}}         & \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                                \\ \cline{2-2}
+        \rowcolor[HTML]{CCCCCC}
+        \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                  & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} On that link, they will be able to provide new password.}}            & \cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} }                                                                \\ \cline{2-2}
+        \rowcolor[HTML]{CCCCCC}
+        \multirow{-25}{*}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} \textbf{Normal flow of events}}} & \multicolumn{1}{p{5cm}|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} The link will expire after 5 minutes}}                                & \multirow{-17}{=}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} User will be prompted to check   their mail.}} \\ \hline
+        {\color[HTML]{231F20} }                                                                          & \multicolumn{2}{l|}{{\color[HTML]{231F20} ·       Site   is down}}                                                                                                                                                                                            \\ \cline{2-3}
+        \multirow{-2}{*}{{\color[HTML]{231F20} \textbf{Alternate flow of   events}}}                     & \multicolumn{2}{l|}{{\color[HTML]{231F20} ·       No email is sent}}                                                                                                                                                                                          \\ \hline
+        \rowcolor[HTML]{CCCCCC}
+        {\color[HTML]{231F20} \textbf{Main success scenarios}}                                           & \multicolumn{2}{l|}{\cellcolor[HTML]{CCCCCC}{\color[HTML]{231F20} Resetting of Password Succeeds.}}                                                                                                                                                           \\ \hline
+        {\color[HTML]{231F20} \textbf{Post-condition}}                                                   & \multicolumn{2}{l|}{{\color[HTML]{231F20} User can use new password to login   to their account}}                                                                                                                                                             \\ \hline
+    \end{tabular}
+\end{table}

@@ -1,0 +1,160 @@
+\chapter{Requirement Specifications} \label{chap:reqs}
+
+%\version{v1.10.2015}
+
+\section*{}
+\section{Existing System vs Proposed System}
+
+\begin{table}[h]
+	\caption{\label{Related Systems} Comparisons.}
+	\begin{tabular}{ |p{3cm}|p{6cm}|p{6cm}| }
+		\hline
+		\textbf{Application Name} & \textbf{Limitations}                                                                 & \textbf{Proposed Solution} \\
+		\hline
+		Zameen.com
+		                          & No Project booking in app \newline No Payment through app
+		                          & Project booking in app \newline No Payment through app \newline Track payment in app                              \\
+		\hline
+		Graana
+		                          & No Project booking in app No \newline Payment through app
+		                          & Project booking in app No \newline Payment through app \newline Track payment in app                              \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\section{Functional CRM Requirements}
+\subsection{CRO Customer Service}
+CROs will be able to chat with customers through the Web Portal. Figure \ref{fig:crm_client}
+\subsection{Client Customer Services}
+Client will be able to contact the customer services of the projects they are affiliated with. They will do so by having a chatting interface. Figure \ref{fig:crm_agent}
+
+\section{Functional Client Requirements [\nameref{client_view}]}
+\subsection{Explore as Guest}
+Clients will have availability to explore the application without registering to it. However, when they decide to make a booking, they will be prompted with a message to login first.
+\subsection{Explore as Registered Account}
+Clients will be able to Register and Login to the application to keep their data saved in the database. This will allow users to change their device without having to worry of losing their data.
+\subsection{Edit Registered Account}
+Clients will be able to change their profile's details through the application
+\subsection{Book place in project}
+Clients will be able to make booking in a project they desire. They will provide paid invoice in the start to authenticate their booking. Once authenticated by the admin, they will be shown in the application.
+\subsection{Track Investments}
+All the investments the client made will be shown in the app where they can track their payment records and make further payments.
+\subsection{Schedule a Meeting}
+Client will be able to schedule meetings with the owner through the app which will be approved by the admin through Web Portal
+\subsection{Search}
+Clients will be able to Search through the application with different filters and sorting options to best suit their needs and requirements.
+\subsection{Add to Wish-list}
+Clients will be able to add projects they like to their wish-list for later interest. Guests will have wish-lists stored on their device whereas logged in users will have it stored on the server.
+\subsection{Add new Project}
+Owners will be able to add new projects to their tally for clients to take interest in through the mobile app.
+\subsection{View Scheduled Meetings}
+Owners will be able to see the approved meetings by the admin on their phone and also reschedule  them if needed.
+\subsection{Create Admin Account }
+Owners will be able to create admin accounts for their managers.
+
+\section{Functional ERP Requirements}
+\subsection{Manage Meetings, Payments and Projects}
+Managers who are given the admin credentials would be able to manage the projects, payments and meetings of their owner. Figure \ref{manage}
+\subsection{Authenticate Payments}
+Managers will be able to authenticate payments made by clients through web portal. Figure \ref{auth}
+\subsection{Create CRO account}
+Managers will be able to create new CRO accounts for customer services. Figure \ref{create}
+
+\section{Functional Complaints Requirements}
+\subsection{Register a complaint}
+Clients will be able to register a complaint for the project they have invested in. Figure \ref{fig:cpm_register_user}
+\subsection{Re send complaint}
+Clients will be able to send a response to complaint for the project they have invested in. Figure \ref{fig:cpm_register_user}
+\subsection{Reply to a complaint}
+Admins will be able to reply to different complaints they receive. Figure Figure \ref{fig:cpm_admin}
+
+\section{Non Functional Requirements}
+\subsection{Encryption}
+Passwords will be stored in encrypted form in the database. Other data that needs encryption such as payments will also be done so to keep proper security of the project.
+\subsection{Performance}
+Least amount of local storage will be used when data is fetched from the API. Only the required data such as tokens, wish lists, roles etc. will be stored. It will be noted that the API calls will be kept to minimum to avoid multiple API calls where a single one would be sufficient.
+\subsection{Usability}
+The User Interface would be kept extremely simple to understand and follow a color pattern to keep the user interaction simple. Things like submit buttons, back buttons will have a single component styling to help user memorize the functionality of each simply.
+
+\newpage
+\section{Use Cases}
+\subsection{Diagrams}
+
+% Your image goes here
+\noindent
+\begin{figure}[h]
+	\makebox[\textwidth]{\includegraphics[scale=0.48]{figures/UseCase Diagrams/Use Case Diagram-1.png}}%
+	\caption{Owner Use Case}
+\end{figure}
+
+\newpage
+\begin{center}
+	% Your image goes here
+
+	\centerline{\noindent}%
+	% \noindent
+	\begin{figure}[h]
+		\makebox[\textwidth]{\includegraphics[scale=0.55]{figures/UseCase Diagrams/Use Case Diagram-3.png}}%
+		\caption{Customer Use Case}
+	\end{figure}
+
+	% 
+\end{center}
+
+
+\newpage
+\begin{center}
+	% Your image goes here
+
+	\centerline{\noindent}%
+	% \noindent
+	\begin{figure}[h]
+		\makebox[\textwidth]{\includegraphics[scale=0.55]{figures/UseCase Diagrams/Use Case Diagram-4.png}}%
+		\caption{CRO Use Case}
+	\end{figure}
+
+	% 
+\end{center}
+
+
+\newpage
+\begin{center}
+	% Your image goes here
+
+	\centerline{\noindent}%
+	% \noindent
+	\begin{figure}[h]
+		\makebox[\textwidth]{\includegraphics[scale=0.4]{figures/UseCase Diagrams/Use Case Diagram-2.png}}%
+		\caption{Manager Use Case}
+	\end{figure}
+
+	% 
+\end{center}
+% \noindent
+% \begin{figure}[h]
+% 	\makebox[\textwidth]{\includegraphics[scale=0.5]{figures/UseCase Diagrams/Use Case Diagram-2.png}}%
+% \end{figure}
+
+\newpage
+\subsection{Description Tables}
+\input{usecase/uc001}
+\input{usecase/uc002}
+\input{usecase/uc003}
+\input{usecase/uc004}
+\input{usecase/uc005}
+\input{usecase/uc006}
+\input{usecase/uc007}
+\input{usecase/uc008}
+\input{usecase/uc009}
+\input{usecase/uc010}
+\input{usecase/uc011}
+\input{usecase/uc012}
+\input{usecase/uc013}
+\input{usecase/uc014}
+\input{usecase/uc015}
+\input{usecase/uc016}
+\input{usecase/uc017}
+\input{usecase/uc018}
+\input{usecase/uc019}
+\input{usecase/uc020}
+\newpage
